@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unicorn-data-doc
+- 👋 Hi, I’m Jenn.
 - 👀 I’m interested in reading, coding, datascience, nature, science and engineering.
 - 🌱 I’m currently learning how to code in Python and continuing to improve my prgramming skills in R.
 - 💞️ I’m looking to collaborate on any and all data science, coding and/or programming projects in Python and R.
